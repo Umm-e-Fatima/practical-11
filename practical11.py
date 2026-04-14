@@ -8,4 +8,4 @@ def my_function():
     print(x)
 
 my_function() # Output: 10
-print(x) # Error: x is not defined outside the function
+
